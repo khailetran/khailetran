@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khaile Tran!</h1>
 <h3 align="center">A software engineer from Atlanta, GA</h3>
 
-- 🔭 I’m currently working on **building and contributing to creating full-stack web applications.**
+ 🔭 I’m currently working on **building and contributing to creating full-stack web applications.**
 
-- 🌱 I’m currently exploring **AI language.**
+ 🌱 I’m currently exploring **AI language.**
 
-- 📫 How to reach me **khailetran94@gmail.com**
+ 📫 How to reach me **khailetran94@gmail.com**
 
-- ⚡ In my free time, I enjoy **traveling, trying new restaurant, powerlifting, frisbee, pickleball, and fostering at local shelters**
+ ⚡ In my free time, I enjoy **traveling, trying new restaurant, powerlifting, frisbee, pickleball, and fostering at local shelters**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
