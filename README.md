@@ -5,7 +5,6 @@
 
  🌱 I’m currently exploring **AI language.**
 
- 📫 How to reach me **khailetran94@gmail.com**
 
  ⚡ In my free time, I enjoy **traveling, trying new restaurant, powerlifting, frisbee, pickleball, and fostering at local shelters**
 
